@@ -1,6 +1,7 @@
-baseURL: https://example.org/
+baseURL: https://thenoobmario.github.io/digital-archive/
 languageCode: en-us
 title: Nachiket Soni
+copyright: "© [Nachiket Soni](https://github.com/ThenoobMario/digital-archive/blob/main/LICENSE)"
 theme: PaperMod
 # enableRobotsTXT: true
 buildDrafts: false
