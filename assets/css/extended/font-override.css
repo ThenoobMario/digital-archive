@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* Substack-style typography */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Georgia", "Times New Roman", Times, serif, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Fira Sans", Georgia, Times New Roman, Times, sans-serif;
+    font-weight: 400; /* Changed from 400 to 600 for bolder titles */
+}
+
+/* Site title in header */
+.logo a {
+    font-family: "Fira Sans", Arial, Helvetica, sans-serif;
+    font-weight: 400; /* Bold site title */
+}
+
+/* Post titles */
+.post-title, .entry-header h1 {
+    font-family: "Fira Sans", Georgia, Times New Roman, Times, sans-serif;
+    font-weight: 400; /* Bold post titles */
+}
+
+.header, .nav, .logo {
+    font-family: "Fira Sans", Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+.tags, .tag, .post-tags, .terms-tags {
+    font-family: "Fira Sans", Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+/* Article content */
+.post-content {
+    font-size: 18px;
+    line-height: 1.65;
+}
