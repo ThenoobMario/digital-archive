@@ -9,7 +9,7 @@ buildExpired: false
 
 caches:
   images:
-    dir: cacheDir/images
+    dir: :cacheDir/images
 
 markup:
   goldmark:
